@@ -1,0 +1,15 @@
+<!-- header start -->
+
+{% if site.float_logo %}
+    <style>
+        .logo-readium { border-radius: 100%; }
+        .logo-readium .logo {
+            top: 2px !important;
+            left: 2px !important;
+            width: 44px !important;
+            height: 44px !important;
+        }
+    </style>
+    <a href="{{ site.url }}{{ site.baseurl }}" class="logo-readium"><span class="logo" style="background-image: url({{ site.sublogo }})"></span></a>
+{% endif %}
+<!-- header end -->
