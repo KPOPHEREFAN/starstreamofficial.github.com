@@ -35,7 +35,7 @@ sublogo: "/assets/images/resources/space_astronaut.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "http://www.androidrundown.com/wp-content/uploads/2014/04/ingress.jpg"
 
 name: '거기 자네 이 글쓴이의 이름을 알고있는가?'
 author: '내게 이 글을 쓴 자의 이름을 알려주시지 않겠나?'
