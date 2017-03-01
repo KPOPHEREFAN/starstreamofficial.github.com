@@ -76,3 +76,9 @@ Licensing
 Contact
 -------
 I'd love to hear from you at [@dirkfabisch](https://twitter.com/dirkfabisch). Feel free to open issues if you run into trouble or have suggestions. Pull Requests always welcome.
+
+Issues
+------
+1. 댓글 달게 하기
+1. 소셜 채널 점검
+1. 포스트 본문 푸터에 데이터 변경
