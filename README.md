@@ -80,5 +80,7 @@ I'd love to hear from you at [@dirkfabisch](https://twitter.com/dirkfabisch). Fe
 Issues
 ------
 1. 댓글 달게 하기
-1. 소셜 채널 점검
-1. 포스트 본문 푸터에 데이터 변경
+1. 소셜 채널 점검, 링크 제대로 달기.
+1. ~~포스트 본문 푸터에 데이터 변경~~
+1. About페이지 수정.
+1. 파비콘 변경하기

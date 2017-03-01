@@ -23,7 +23,7 @@ layout: default
                 &nbsp;&nbsp;·&nbsp;&nbsp;
             {% endif %}
         {% endfor %}
-        <a href={{ "/about/" | prepend: site.baseurl }}>About</a>
+        <a href={{ "/abouts/" | prepend: site.baseurl }}>About</a>
     </div>
 </header>
 
@@ -80,6 +80,10 @@ layout: default
             font-weight: 500;
             font-size: 28px;
         }
+        .index-headline {
+            border-top: 0px solid #dededc;
+            border-bottom: 1px solid #dededc;
+        }
         .index-headline span { font-size: 13px }
         .btn {
             padding: 7px;
@@ -125,6 +129,9 @@ layout: default
             </article>
         {% endfor %}
     </div>
+
+    <h5 class="index-headline normal" style="padding: 0px;"></h5>
+    <!-- <span>Posts ({{ paginator.total_posts }})</span> -->
 
     <nav class="pagination" role="navigation">
       {% if paginator.next_page %}
