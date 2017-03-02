@@ -32,6 +32,8 @@ email: dev@gmail.com
 #blog logo
 logo: "/assets/images/ruby_logo.jpg"
 sublogo: "/assets/images/resources/space_astronaut.jpg"
+favicon: "/assets/images/favicon_16_16.png"
+favicon_big: "/assets/images/favicon_300_300.png"
 float_logo: true # true, false (default)
 
 # blog cover
