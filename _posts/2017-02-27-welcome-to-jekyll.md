@@ -101,14 +101,16 @@ author_profile_img: /assets/images/profile_img/yhk_profile_1.jpg
     - **총체적 이슈관리** 는 제가 맡으므로 언제든지 이야기 해주세요!
 
 ---
-<!--
-## How to Use
+
+## Original Document by the author of theme
+
+### [0] How to Use
   - You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-## Add Post
+### [1] Add Post
   - To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-## Snippets
+### [2] Snippets
   - Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
@@ -130,7 +132,7 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
    <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
   </div>
 </footer>
-{% endhighlight %} -->
+{% endhighlight %}
 
 
 [jekyll]:      http://jekyllrb.com
